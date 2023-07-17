@@ -1,6 +1,6 @@
 2023.06.26 15:30:53.971 DEBUG [main] FileUtil - 역 미세먼지 URL 파일을 기본값으로 생성 111
 2023.06.26 15:30:54.039 DEBUG [main] FileUtil - 핑 테스트 파일을 기본값으로 생성 	222
-2023.06.26 15:30:54.052 DEBUG [main] FileUtil - 핑 테스트 파일을 기본값으로 생성
+2023.06.26 15:30:54.052 DEBUG [main] FileUtil - 핑 테스트 파일을 기본값으로 생성 main 2
 2023.06.26 15:30:54.073 DEBUG [main] FileUtil - /data/data/APP_PACKAGE/cache 폴더가 삭제됨
 2023.06.26 15:30:54.087 DEBUG [main] FileUtil - /data/data/APP_PACKAGE/code_cache 폴더가 삭제됨
 2023.06.26 15:30:54.380 DEBUG [main] DeviceUtil - WiFi 연결이 확인 되었습니다.
